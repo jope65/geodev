@@ -1,6 +1,6 @@
 [project]
-name = "geodev"
-version = "0.0.1"
+name = "geodev-jope65"
+version = "0.0.2"
 dynamic = [
     "dependencies",
 ]
