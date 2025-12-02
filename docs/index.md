@@ -9,7 +9,7 @@
 
 -   Free software: MIT License
 -   Documentation: <https://jope65.github.io/geodev>
-    
+
 
 ## Features
 
