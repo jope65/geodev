@@ -15,5 +15,6 @@
 ## Features
 
 -   TODO
--   Creat interactive maps with minimal lines of code
--   Greatea tools for GIS
+-   Create interactive maps with minimal lines of code
+-   Great tools for GIS
+    Hello world
